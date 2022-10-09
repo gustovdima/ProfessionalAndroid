@@ -8,6 +8,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+    fun createProject(){
+        print("Hello my name is Anton, welcome back in the create project, here i will tell you about how to create the new project")
+    }
+
 }
 
 
